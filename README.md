@@ -25,7 +25,7 @@ askReadme is a Streamlit application that analyzes README files from GitHub repo
 
 Run the Streamlit application:
 ```sh
-streamlit run askReadme/app.py
+streamlit run app.py
 ```
 
 ## License
